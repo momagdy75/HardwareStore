@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/Home"
+            android:icon="@drawable/home"
+            android:title="Home"
+           />
+        <item
+            android:id="@+id/CPU"
+            android:icon="@drawable/cpu"
+            android:title="CPU"
+            />
+        <item
+            android:id="@+id/GPU"
+            android:icon="@drawable/gpu"
+            android:title="Graphics Cards"
+
+            />
+        <item
+            android:id="@+id/MotherBoard"
+            android:icon="@drawable/motherboard"
+            android:title="MotherBoards"
+
+            />
+        <item
+            android:id="@+id/RAM"
+            android:icon="@drawable/ram"
+            android:title="Ram"
+
+            />
+    </group>
+
+
+</menu>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="Gpu_Products_Name">
+        <item>NVIDIA  RTX 3090</item>
+        <item>NVIDIA  RTX 3080 Ti</item>
+        <item>NVIDIA  RTX 3080</item>
+        <item>NVIDIA  RTX 3070 Ti</item>
+        <item>NVIDIA  RTX 3070</item>
+        <item>NVIDIA  RTX 3060 Ti</item>
+        <item>Gigabyte GTX 1660Ti</item>
+        <item>GeForce GTX 1650 4 GB</item>
+    </string-array>
+    <string-array name="Gpu_Products_Prices">
+        <item>1500$</item>
+        <item>1200$</item>
+        <item>700$</item>
+        <item>600$</item>
+        <item>500$</item>
+        <item>400$</item>
+        <item>280$</item>
+        <item>160$</item>
+    </string-array>
+    <string-array name="Gpu_description">
+        <item>GPU Memory Size: 24 GB\nBoost Clock Speed: 1.70 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 12 GB\nBoost Clock Speed: 1.67 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 10 GB\nBoost Clock Speed: 1.71 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 8 GB \nBoost Clock Speed: 1.77 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 8 GB \nBoost Clock Speed: 1.73 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 8 GB \nBoost Clock Speed: 1.67 GHz\nCooling System: Fan</item>
+        <item>GPU Memory Size: 6 GB\nBoost Clock Speed: 1800 MHz\nCooling System: Active</item>
+        <item>GPU Memory Size: 4 GB\nBoost Clock Speed: 1710 MHz\nCooling System: Active</item>
+    </string-array>
+
+    <string-array name="Mb_Products_Name">
+        <item>GYGABYTE B660 AORUS Master</item>
+        <item>GYGABYTE B660 DS3H AX DDR4</item>
+        <item>ASUS PRIME Z690 A</item>
+        <item>ASUS Z690 plus WIFI</item>
+
+    </string-array>
+    <string-array name="Mb_Products_Prices">
+        <item>210$</item>
+        <item>100$</item>
+        <item>320$</item>
+        <item>380$</item>
+
+    </string-array>
+    <string-array name="Mb_description">
+        <item>Supports 12th Gen Intel® Core™ Series Processors\nDDR5 MEMORY Design with Shielded Memory Routing</item>
+        <item>Supports 12th Gen.\nIntel Core™ Processors\nSolid Pin Power Connectors</item>
+        <item>Ready for 12th Gen Intel processors\nComprehensive cooling</item>
+        <item>Made for online gaming\nComprehensive cooling\nIntel® LGA 1700 socket</item>
+    </string-array>
+    <string-array name="Cpu_Products_Name">
+        <item>Intel CORE i9 9th Gen</item>
+        <item>Intel CORE i7 8th Gen</item>
+        <item>Intel CORE i7 X-Gen</item>
+        <item>Intel CORE i5 7th Gen</item>
+    </string-array>
+    <string-array name="Cpu_Products_Prices">
+        <item>750$</item>
+        <item>450$</item>
+        <item>500$</item>
+        <item>220$</item>
+
+    </string-array>
+    <string-array name="Cpu_description">
+        <item>Total Cores: 8\nMax Turbo Frequency : 4.40 GHz</item>
+        <item>Total Cores: 4\nMax Turbo Frequency : 4.50 GHz</item>
+        <item>Total Cores: 10\nMax Turbo Frequency : 4.50 GHz</item>
+        <item>Total Cores: 2\nMax Turbo Frequency : 3.40 GHz</item>
+    </string-array>
+    <string-array name="Ram_Products_Name">
+        <item>TridentZ RGB</item>
+        <item>Trident Z Maverik</item>
+        <item>Trident Z Royal Elite</item>
+        <item>G.Skill Sniper X</item>
+    </string-array>
+    <string-array name="Ram_Products_Prices">
+        <item>200$</item>
+        <item>450$</item>
+        <item>500$</item>
+        <item>400$</item>
+
+    </string-array>
+    <string-array name="Ram_description">
+        <item>DDR4-4266 (1.40V)\n16GB (2x8GB)</item>
+        <item>DDR4-3600 (1.35V)\n32GB (1x16GB)</item>
+        <item>DDR4-4000 (1.55V)\n16GB (2x8GB)</item>
+        <item>DDR4-3600 (1.35V)\n16GB (1x16GB)</item>
+    </string-array>
+
+</resources>
